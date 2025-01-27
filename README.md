@@ -47,22 +47,22 @@ This project analyzes and visualizes socio-economic and quality-of-life metrics 
 ## Dashboards
 
 ### 1. Discrimination Stats Pre & Post COVID-19
-![Discrimination Dashboard](/discrimination_dashboard.png)
+![Discrimination Dashboard](./discrimination_dashboard.png)
 
 ### 2. Employment Rate for October
-![Employment Dashboard](/employment_dashboard.png)
+![Employment Dashboard](./employment_dashboard.png)
 
 ### 3. Life Satisfaction Metrics 2021–2024
-![Life Satisfaction Dashboard](/life_satisfaction_dashboard.png)
+![Life Satisfaction Dashboard](./life_satisfaction_dashboard.png)
 
 ### 4. Canada’s Performance as per QoL
-![QoL Summary Dashboard](/qol_summary_dashboard.png)
+![QoL Summary Dashboard](./qol_summary_dashboard.png)
 
 ### 5. Sense of Belonging in 2024
-![Sense of Belonging Dashboard](/sob_dashboard.png)
+![Sense of Belonging Dashboard](./sob_dashboard.png)
 
 ### 6. Waste Management by Province
-![Waste Management Dashboard](/waste_mgmt_dashboard.png)
+![Waste Management Dashboard](./waste_mgmt_dashboard.png)
 
 
 ## References
